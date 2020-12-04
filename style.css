@@ -1,0 +1,103 @@
+img{
+  position: relative;
+  bottom: 70px;
+  right: 30px;
+  width: 500px;
+  height:300px;
+  left: 450px;
+}
+.justice{
+  position: relative;
+  bottom: 175px;
+  font-style: italic;
+  left: 640px;
+}
+.edition{
+  position: relative;
+  bottom: 235px;
+  left: 1350px;
+}
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.navbar a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+hr{
+  position: relative;
+  bottom: 250px;
+  border: 1px solid;
+  border-radius: 2px;
+}
+p{
+  position: relative;
+  bottom: 200px;
+  font-style: italic;
+}
+input,button{
+  position: relative;
+  bottom: 240px;
+  border-radius: 5px;
+}
+.crime{
+  position: relative;
+  bottom: 220px;
+  font-size: 2.5rem;
+}
+.head2{
+  position: relative;
+  bottom: 250px;
+  font-style: normal;
+  font-size: 1.5rem;
+    border-style: solid;
+}
+.div1{
+  padding: 0px 250px 20px 250px ;
+}
+.head, .head{
+  position: relative;
+  bottom: 250px;
+  font-style: normal;
+  font-size: 1.1rem;
+  line-height: 2;
+  font-family: sans-serif;
+}
+
+.footer{
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 250px;
+  left: 250px;
+  border-style: solid;
+}
+
+.nav{
+  position: relative;
+  bottom: 200px;
+  height: 50px;
+  background-color: black;
+}
+
+.nav1{
+  position: relative;
+  bottom: -18px;
+  color: grey;
+  left: 600px;
+  font-size: 0.8rem;
+  font-family: sans-serif;
+}

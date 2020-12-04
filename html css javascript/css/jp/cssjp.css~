@@ -1,0 +1,29 @@
+h1{
+	color:red;
+	font-size:100px;
+}
+
+img:hover{
+background-color:gold;
+}
+
+/*******************CLASS SELECTORS**********/
+.biryani{background-color: green;}
+.chicken{background-color: red;}
+
+.circular{
+border-image-outset:100px;
+}
+
+
+
+/************************IDS SELECTORS*********/
+
+#heading{
+color:blue;
+}
+
+
+#big{
+font-size: 1000px;
+}

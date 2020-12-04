@@ -1,0 +1,85 @@
+<html>
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8">
+		<title>Meghana's Personal Site</title>
+		<link rel="stylesheet" href="/css/styles.css">
+		
+		
+		
+		
+		
+		</head>
+	<body style='background-color:#EAF6F6;'>
+	<style>
+	h1{
+		text-shadow: 3px 2px pink;	
+	}
+	</style>
+	
+		
+		
+		<table cellspacing=20>
+			<tr>
+			<td><img src="photo_2019-06-14_15-29-06.jpg" alt="Meghana Profile Picture"></td>
+			<td><h1>Meghana Mithash JP</h1>
+			<h2>Studying in <a href="http://www.sit.ac.in/">Siddaganga Institute of Technology,Tumkur,Karanataka,India</a></h2></td>
+			</tr>
+		</table>
+		<hr>
+	<h3> My Family:</h3>
+	<p>Jayanna H: Asst.Prof. at<a href="https://gfgc.kar.nic.in/ramanagara-law/About-Us">Government Law College , Ramanagara,Karnataka,India</a></p>
+	<p>Pushpalatha S B : Surveyor at <a href="https://tumkur.nic.in/Departmental%20Information.html">DC office, Tumkur, Karnataka, India</a></p>
+	<p>Nilaya Mithash J P: studying in 10th at <a href="http://www.thelearningpoint.net/home/school-listings/cbse-40/SRI-CHAITANYA-TECHNO-SCHOOL--TUMKUR--KARNATAKA--830498">Sri Chaitanya Techno in Tumkur,Karantaka, India</a></p>
+	<hr>
+	<h3>Books I read is:</h3>
+	<ul>
+	<li>Book of Balaguru Swamy in C</li>
+	<li>Reading at present Core Python by Nageshwar Rao</li>
+	</ul>
+	<a href="hobbies.html">my hobbies</a><br>
+	<a href="contact.html">my contact details</a><br>	
+	<table border="1">
+	<tr>
+	<th>Dates</th>
+	<th>Studies</th>
+	<th>Performance</th>
+	<th>School/College</th>
+	</tr>
+	<tr>
+	<td> 2016</td>
+	<td> Completed my 10th</td>
+	<td>96%</td>
+	<td><a href="https://www.shanthiniketan.org/">Shanthiniketan Public School,Ramanagara</a></td>	
+	</tr>
+	<tr>
+	<td> 2018</td>
+	<td> Completed my 12th</td>
+	<td>87%</td>
+	<td><a href="http://maheshpucollege.com/tumakuru-ashok-nagar/contact-us">Mahesh PU College,Tumkur</a></td>
+	</tr>
+	<tr>
+	<td>2019</td>
+	<td>studying engineering</td>
+	<td>8.5 CGPA</td>
+	<td>Siddaganga Institute of Technology,Tumkur</td>
+	</tr>
+	</table>
+	<table>
+	<tr>
+	<th>languages</th>
+	<th> rating</th></tr>
+	<tr>
+	<td>C programing</td>
+	<td>⭐⭐⭐⭐</td>
+	</tr>
+	<tr>
+	<td>webdevelopment</td>
+	<td>⭐⭐⭐</td>
+	</tr>
+	<tr>
+	<td>python</td>
+	<td>⭐⭐</td>
+	</tr>
+	</table>
+	</html>

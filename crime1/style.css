@@ -1,0 +1,12 @@
+img{
+  position: relative;
+  bottom: 150px;
+  left: 480px;
+  height: 400px;
+}
+p{
+  position: relative;
+  bottom: 280px;
+  left: 630px;
+  font-style: italic;
+}
